@@ -1,8 +1,12 @@
 # React_E-Commerce
 
 
-A Ecommerce Website made with React.js Framework.
+An e-commerce web application built using React for shopping purposes. This project allows users to browse products, add them to a shopping cart, and proceed to secure checkout and payment.
 
+## Project Overview
+
+This e-commerce platform allows users to:
+<p>Browse through a list of products </p>Search for specific products using keywords.Add products to the cart and update the quantity.Checkout using a secure payment gateway.Register and log in using JWT-based authentication.Manage orders and account details.
 
 ## Demo
 

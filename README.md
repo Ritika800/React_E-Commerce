@@ -9,6 +9,11 @@ This e-commerce platform allows users to:
 <p>Browse through a list of products </p> <p>Search for specific products using keywords.Add products to the cart and update the quantity.</p> <p>Checkout using a secure payment gateway.</p>
 <p>Register and log in using JWT-based authentication.Manage orders and account details.</p>
 
+##Features
+<p>Product Listings: Browse and filter products.</p>
+<p>Product Search: Search products by name, category, or tags.Shopping Cart: Add, remove, or update items in the cart.</p>
+<p>User Authentication: Register and log in to manage orders.Secure Checkout: Integration with a payment gateway for transactions.Responsive Design: Optimized for mobile, tablet, and desktop views.</p>
+
 ## Demo
 
 https://react-e-commerce-beige.vercel.app/

@@ -6,7 +6,8 @@ An e-commerce web application built using React for shopping purposes. This proj
 ## Project Overview
 
 This e-commerce platform allows users to:
-<p>Browse through a list of products </p>Search for specific products using keywords.Add products to the cart and update the quantity.Checkout using a secure payment gateway.Register and log in using JWT-based authentication.Manage orders and account details.
+<p>Browse through a list of products </p> <p>Search for specific products using keywords.Add products to the cart and update the quantity.</p> <p>Checkout using a secure payment gateway.</p>
+<p>Register and log in using JWT-based authentication.Manage orders and account details.</p>
 
 ## Demo
 
